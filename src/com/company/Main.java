@@ -11,6 +11,7 @@ public class Main {
        Portland.plague();
        System.out.println(Portland.population);
        //System.out.println(Seattle.popDensity(30, 20));
+        System.out.println("test");
 
     }
     public static void echo() {
